@@ -3,13 +3,13 @@
   <channel>
     <title>MonoComplete</title>
     <item>
-      <title>0.1.0</title>
-      <pubDate>Sun, 22 Nov 2026 17:05:48 +0530</pubDate>
-      <sparkle:version>202611221705</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>0.1.1</title>
+      <pubDate>Sun, 22 Nov 2026 18:06:30 +0530</pubDate>
+      <sparkle:version>202611221805</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p style="font: 13px -apple-system">First alpha: autocomplete in any app from your computer history, using Claude Code.</p>]]></description>
-      <enclosure url="https://github.com/naveennaidu/mono-complete-releases/releases/download/v0.1.0/MonoComplete-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="o8lBZnnwVx3HPKxgeQuNRzXKxovMfrEmdyHr4O7eGyOw3W7vR/mMy8qINr7Ixpuh/ulk2MrTewAkqNff7HatBQ==" length="1399876" />
+      <description><![CDATA[<p style="font: 13px -apple-system">New suggestion card that names the apps a suggestion came from. Adds a suggestion log, shared with the developers during the alpha to improve suggestions (switch it off under General), and Flag Last Suggestion as Bad in the menu.</p>]]></description>
+      <enclosure url="https://github.com/naveennaidu/mono-complete-releases/releases/download/v0.1.1/MonoComplete-0.1.1.dmg" type="application/octet-stream" sparkle:edSignature="jhZy5pgyZW91KWm7pCOg9fyMCF6N6mldmv+ebM5KWzHlEuBB4BvO0BmPchGfXFfp0b4Mz8SP+4U6/VGk7HKcAg==" length="1717638" />
     </item>
   </channel>
 </rss>
